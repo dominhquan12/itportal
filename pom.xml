@@ -13,6 +13,13 @@
         <version>3.2.4</version>
         <relativePath/>
     </parent>
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            <id>demo</id>-->
+<!--            <name>demo</name>-->
+<!--            <url>file:///${project.basedir}/lib/repository</url>-->
+<!--        </repository>-->
+<!--    </repositories>-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
